@@ -11,7 +11,7 @@ module.exports = {
   },
   plugins: [new HtmlWebpackPlugin({
     title: 'Prairie Project Services',
-    template: './src/index.html',
+    template: './src/src.html',
   })],
   module: {
     rules: [
